@@ -17,7 +17,7 @@ Details about the DataBase.
 5. Temp schema is used to store the uploaded data tp MusicUploadData.
 6. PlayList schema is used to store the PlayList audio added from MusicUploadData schema.
 
-The Sample images of the Project is stored in 'Music-Player/music-app/src/Project Images'
+The Sample images of the Project is stored in 'src/Project Images'
 
 
 
