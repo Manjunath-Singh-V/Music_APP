@@ -474,7 +474,7 @@ const MusicApp = () => {
                             <th>Song name</th>
                             <th>Song size</th>
                             <th>Song type</th>
-                            <th>Play / Pause Song</th>
+                            <th>Add song to Playlist</th>
                             <th>Update</th>
                             <th>Delete</th>
                         </tr>
